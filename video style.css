@@ -39,9 +39,6 @@ video::cue {
   cursor: pointer;
 }
 
-body {
-  background-color: #002333;
-}
 
 section {
   display: flex;
@@ -408,22 +405,6 @@ section {
   border-radius: 20px;
 }
 
-footer {
-  padding: 15px 23px;
-  background: #1b1b1a;
-  text-align: center;
-  color: #fff;
-  font-size: 14px;
-}
-
-footer a {
-  color: crimson;
-  text-decoration: none;
-}
-
-footer a:hover {
-  text-decoration: underline;
-}
 
 @media (max-width: 430px) {
   .container {
